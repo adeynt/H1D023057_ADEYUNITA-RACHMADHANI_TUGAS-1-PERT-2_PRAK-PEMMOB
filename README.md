@@ -1,1 +1,9 @@
-# H1D023057_ADEYUNITA-RACHMADHANI_TUGAS-1-PERT-2_PRAK-PEMMOB
+# Tugas Praktikum Pemrograman Mobile
+
+## Identitas
+- **Nama**  : Adeyunita Racmadhani  
+- **NIM**   : H1D023057
+- **Shift KRS** : F 
+- **Shift Baru** : E  
+
+## Bukti Tugas:
