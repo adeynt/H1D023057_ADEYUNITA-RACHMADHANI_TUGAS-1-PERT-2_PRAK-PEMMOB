@@ -3,6 +3,7 @@ package com.unsoed.informatikamobile
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.unsoed.informatikamobile.Halaman2Activity
 import com.unsoed.informatikamobile.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -11,13 +12,13 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
-        setContentView(binding.root)  // gunakan binding.root
-
-        initNavigation() // panggil fungsi navigation
+        setContentView(binding.root)
+        initNavigation()
     }
 
     private fun initNavigation() {
         binding.btnToPage2.setOnClickListener {
+            // Corrected Intent creation without named arguments
             startActivity(Intent(this, Halaman2Activity::class.java))
         }
     }
