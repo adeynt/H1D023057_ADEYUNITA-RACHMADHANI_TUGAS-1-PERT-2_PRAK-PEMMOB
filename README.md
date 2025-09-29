@@ -19,4 +19,4 @@
 ## Tugas 3 Pertemuan 4
 
 ## Bukti Tugas
-![Image](https://github.com/user-attachments/assets/b7de09b2-82a4-44ab-840f-da141133f279)
+![Image](https://github.com/user-attachments/assets/371378ca-7aed-4790-af2a-b2dff3f98580)
